@@ -1,5 +1,5 @@
 """
-ASGI config for familia2 project.
+ASGI config for familia project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 
